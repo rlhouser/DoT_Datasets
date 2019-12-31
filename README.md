@@ -25,6 +25,6 @@ The columns in each file are as follows:
 
 - **Time**: Timestamp (epoch time) that the packet was captured
 - **Source**: Source IP address
-- **Destination: Destination IP address
+- **Destination**: Destination IP address
 - **Length**: Length of the TLS record (bytes)
-- **SSL type: **: SSL record type [see RFC 6101](https://tools.ietf.org/html/rfc6101)
+- **SSL type**: SSL record type [see RFC 6101](https://tools.ietf.org/html/rfc6101)
