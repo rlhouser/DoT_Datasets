@@ -1,4 +1,4 @@
-This repository contains the datasets used in the [paper](https://dl.acm.org/citation.cfm?id=3365429):
+This repository contains datasets used in the [paper](https://dl.acm.org/citation.cfm?id=3365429):
 
 Rebekah Houser, Zhou Li, Chase Cotton, and Haining Wang. 2019. An investigation on information leakage of DNS over TLS. In *Proceedings of the 15th International Conference on Emerging Networking Experiments And Technologies (CoNEXT '19).* ACM, New York, NY, USA, 123-137. DOI: https://doi.org/10.1145/3359989.3365429
 
