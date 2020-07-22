@@ -5,7 +5,7 @@ Rebekah Houser, Zhou Li, Chase Cotton, and Haining Wang. 2019. An investigation 
 https://dl.acm.org/citation.cfm?id=3365429
 
 
-###DoT Traces
+### DoT Traces
 
 We collected traces of DoT traffic by visiting the homepage of a set of websites using Firefox (in headless mode, driven by Selenium). DoT traffic was collected between the stub and recursive resolver using tcpdump. Data collection was performed between February 2019 and April, 2019, using an EC2 instance in the us-east-1 zone.
 
